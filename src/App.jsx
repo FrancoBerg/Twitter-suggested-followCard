@@ -6,7 +6,7 @@ export function App() {
     <section className='App'>
 
        <TwitterFollowCard 
-         userName="lilcake" 
+         userName="frank" 
          name="Tortita" 
      />
        <TwitterFollowCard
